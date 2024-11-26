@@ -7,6 +7,7 @@ XML-RPC brute force refers to a type of cyberattack where an attacker repeatedly
 - XML-RPC Interface: WordPress provides an XML-RPC interface via the xmlrpc.php script, enabling remote procedure calling using HTTP and XML.
 - Attack Method: Attackers use tools to automate the process of trying different username and password combinations until they gain unauthorized access to the CMS.
 - Risk: Brute force attacks pose a significant security risk, potentially leading to unauthorized access, data breaches, and website defacement.
+- wp-login brute force
 
 ## Requirements
 - Python 3.x
